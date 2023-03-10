@@ -17,7 +17,7 @@ And now I understand I want to be a front-end developer! Now I start my new way.
 *****
 
 ## CODE EXAMPLE:
-`console.log("I want to study coding");`
+`console.log("So sad code");`
 
 *****
 
